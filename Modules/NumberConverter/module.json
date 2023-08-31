@@ -1,0 +1,11 @@
+{
+    "name": "NumberConverter",
+    "alias": "numberconverter",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\NumberConverter\\Providers\\NumberConverterServiceProvider"
+    ],
+    "files": []
+}
